@@ -102,7 +102,7 @@ server-monitor-demo-bot/
 ### 1. Clone the project
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/TomKrimberg/server-monitor-demo-bot
 cd server-monitor-demo-bot
 ```
 
